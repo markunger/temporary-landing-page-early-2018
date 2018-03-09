@@ -1,0 +1,59 @@
+body{
+font-family: 'PT Sans', sans-serif;
+color:#333333;
+}
+
+#picture{
+	position: relative;
+	width:150px;
+	height:150px;
+	float: left;
+	margin-left: 31vw;
+	margin-top: 20vh;
+	border-radius: 5px;
+}
+
+#MarkUnger{
+	position: relative;
+	font-size: 60px;
+	float: left;
+	margin-left: 21px;
+	margin-top: 35vh;
+	font-weight: 700;
+	color: #111111;
+}
+
+#contact_info{
+	position: relative;
+	clear:left;
+	float: left;
+	text-align: right;
+	margin-left: 28.7vw;
+	line-height: 25px;
+}
+
+#blurb{
+	position: relative;
+	float: left;
+	margin-left: 24px;
+	line-height: 25px;
+}
+
+#linkedIn{
+	position: relative;
+	width:auto;
+	height:30px;
+	clear:left;
+	float: left;
+	margin-left: 44.65vw;
+	margin-top: 15px;
+}
+
+#instagram{
+	position: relative;
+	width:auto;
+	height:30px;
+	float: left;
+	margin-left: 10px;
+	margin-top: 15px;
+}
